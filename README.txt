@@ -9,11 +9,6 @@ Tingting Huang
 
 Instructions:
 
-	Overview:
-
-		Being a single pager, Big Picture should be way simpler to work with than
-		some of the heavier stuff I've released in the past. In fact, aside from
-		a main page <header> and <footer>, it's pretty much just a stack of "main"
 		<section> elements that follow the same basic pattern:
 
 			<section id="foobar" class="main">
@@ -51,9 +46,6 @@ Instructions:
 			style3 secondary
 				Used for generic content. Set against the secondary background
 				color (default is a light gray).
-
-		Oh, and there are a few (well, two) optional modifier classes you can
-		tack on for additional effects:
 
 			dark
 				Flips the content's color scheme so it shows up better
