@@ -1,5 +1,5 @@
 Tingting Huang
-    Contact: imhuangtt@gmail.com | imtingtingh.github.io | Wechat:httooooo  
+    Contact: imhuangtt@gmail.com | imtingting.github.io | Wechat:httooooo  
     Created: July 27th, 2020.  
     Last Updated: Sep 20th, 2023  
     Tingting Huang's personal website. This site has information about her,  
